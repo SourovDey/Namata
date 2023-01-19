@@ -1,4 +1,4 @@
-let a = 2;
+let a = 10;
 let b = " * ";
 let c = " = ";
 for(let i = 1; i < 11; i++){
